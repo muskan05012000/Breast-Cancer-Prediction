@@ -33,3 +33,5 @@ We'll construct a predictive model using SVM machine learning algorithm to predi
 **Aim: Construct predictive models to predict the diagnosis of a breast tumor.** 
 We'll aim to tune parameters of the SVM Classification model using scikit-learn.
 
+ Data Acquire:
+source : https://www.kaggle.com/datasets/merishnasuwal/breast-cancer-prediction-dataset
